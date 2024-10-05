@@ -5,7 +5,7 @@ This is my first JavaScript project—a straightforward implementation of the cl
 
 ## Technologies Used
 - **JavaScript**: For game logic and user interaction through the terminal.
-- **Node.js**: (if applicable) For running the game in the terminal environment.
+- **Node.js**: For running the game in the terminal environment.
 
 ## Key Features
 - **Code Structure**: Built focusing on maintainability and readability.
